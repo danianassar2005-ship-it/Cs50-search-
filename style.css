@@ -1,0 +1,38 @@
+.links {
+    text-align: right;
+    margin: 20px;
+}
+.links a {
+    padding-left: 15px;
+}
+.dania {
+    text-align: center;
+    margin-top: 150px;
+}
+.search {
+    width: 600px;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid #dcdcdc;
+    padding-left: 15px;
+}
+.button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.advanced {
+    background-color: #2f5fab;
+    color: white;
+    padding: 10px 20px;
+    font-weight:bold;
+    margin-left: 20px;
+}
+.image {
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+}
